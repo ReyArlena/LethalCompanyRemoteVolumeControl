@@ -1,4 +1,5 @@
 _thunderstore/**/*.dll
+_thunderstore/**/*.zip
 _thunderstore/README.md
 
 # Created by https://www.toptal.com/developers/gitignore/api/unity,visualstudio,visualstudiocode,rider
