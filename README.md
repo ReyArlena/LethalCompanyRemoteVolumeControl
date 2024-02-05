@@ -41,4 +41,4 @@ If you are using other mods that use the keybinds for `[` and `]`, you will need
 
 ## Issues
 
-If you have any issues, please submit them on the GitHub page.
+If you have any issues, please submit them on the [GitHub Issues page](https://github.com/ReyArlena/LethalCompanyRemoteVolumeControl/issues).
