@@ -1,0 +1,10 @@
+{
+  "name": "RemoteVolumeControl",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/ReyArlena/LethalCompanyRemoteVolumeControl",
+  "description": "A mod for Lethal Company allowing you to change the client-side volume of all Boomboxes from anywhere on the map with [ and ].",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "Rune580-LethalCompany_InputUtils-0.6.3"
+  ]
+}
