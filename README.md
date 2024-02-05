@@ -24,7 +24,7 @@ This mod **requires** [BepInEx](https://thunderstore.io/c/lethal-company/p/BepIn
 
 Use a mod manager ([r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) is highly recommended), it will handle everything for you.
 
-If you wish to install this manually, place the `.dll` in your `BepInEx\plugins` after installing the above requirements.
+If you wish to install this manually, place the `.dll` in your `BepInEx\plugins` folder after installing the above requirements.
 
 ## Compatibility
 
